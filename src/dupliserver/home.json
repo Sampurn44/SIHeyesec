@@ -1,0 +1,29 @@
+ [
+      {  
+        "NameOfHackathon": "Hack AI Thon",
+        "date":"21 June 2023-22 June 2023",
+        "location":"Online",
+        "ConductedBy": "IIT Kanpur",
+        "prize": "$1000",
+        "NoOfHackers":"700"
+      },
+      {
+        "NameOfHackathon": "Hack AI thon 2",
+        "date":"24 June 2023-25 June 2023",
+        "location":"Offline",
+        "ConductedBy": "NIT Kanpur",
+        "prize": "$1000",
+        "NoOfHackers":"700"
+
+      },
+      {
+        "NameOfHackathon": "Hack AI thon 3",
+        "date":"30 June 2023-31 June 2023",
+        "location":"Online",
+        "ConductedBy": "IIIT Kanpur",
+        "prize": "$1000",
+        "NoOfHackers":"700"
+      }
+      
+    ]
+  
